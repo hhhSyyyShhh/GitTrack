@@ -1,0 +1,27 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+**/build/
+# Local Android / IDE files
+/.idea/
+.gradle/
+app/build/
+# Local databases and runtime data - never upload personal Room data
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+# Secrets
+*.keystore
+*.jks
+*.p12
+.env
+.env.*
+secrets.properties

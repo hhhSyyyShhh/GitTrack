@@ -1,0 +1,9 @@
+# Copy this file to local.properties and fill in your local values.
+# Do not commit local.properties to GitHub.
+
+sdk.dir=/Users/your_name/Library/Android/sdk
+
+# Optional: Alibaba Cloud Bailian Qwen
+DASHSCOPE_API_KEY=
+QWEN_MODEL=qwen-plus
+DASHSCOPE_BASE_URL=https://dashscope.aliyuncs.com/compatible-mode/v1/
