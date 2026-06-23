@@ -84,7 +84,7 @@ sdk.dir=/Users/你的用户名/Library/Android/sdk
 
 ### 3. 配置 Qwen
 
-在 `local.properties` 中继续加入：
+在 `local.properties` 中继续加入(或者直接修改`example`文件)：
 
 ```properties
 DASHSCOPE_API_KEY=你的阿里云百炼API_KEY
